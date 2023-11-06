@@ -10,5 +10,10 @@
 
 streamlit run dashboard.py
 
+Masih ada kendala untuk deploy di share.streamlit.io dikarenakan file csv tidak terbaca.
+Tetapi di local sudah jalan dengan maksimal, berikut tampilan local:
 
-   
+<img width="2560" alt="Screen Shot 2023-11-03 at 13 40 47" src="https://github.com/erikhsaragih/submission-dicoding/assets/13059498/d5375a64-37de-45d3-a323-f93ed40c623b">
+
+
+
